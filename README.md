@@ -29,11 +29,15 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Ángel García**, estudiante de **Ingeniería en Sistemas Computacionales próximo a egresar**, enfocado en el desarrollo de software y la construcción de soluciones web modernas, escalables y mantenibles.
+Soy **Ángel García, Ingeniero en Sistemas Computacionales titulado**, enfocado en el desarrollo de software y la construcción de soluciones tecnológicas que resuelvan problemas reales.
 
-Me apasiona transformar problemas en soluciones mediante **lógica, creatividad y tecnología**. Disfruto especialmente trabajar en sistemas que requieren diseñar arquitectura, modelar información, desarrollar APIs, construir interfaces y optimizar procesos.
+Me interesa comprender un sistema de principio a fin: desde el análisis del problema y el diseño de su arquitectura, hasta el desarrollo del **backend, frontend, bases de datos e integración de servicios**. Disfruto especialmente enfrentar problemas que requieren razonamiento lógico, diseñar una solución y posteriormente buscar formas de optimizarla y hacerla más mantenible y escalable.
 
-Mi objetivo profesional es desarrollarme como **Software Engineer**, profundizando en arquitectura de software y sistemas distribuidos para posteriormente especializarme en **Inteligencia Artificial, Machine Learning y Visión Artificial**.
+He desarrollado proyectos orientados a distintos contextos, incluyendo **sistemas SaaS multi-tenant, puntos de venta Local-First, sistemas de trazabilidad industrial y plataformas de gestión administrativa**, trabajando principalmente con tecnologías como **C#, .NET, TypeScript, JavaScript, React, Angular y SQL**.
+
+Mi objetivo es continuar desarrollándome como **Software Engineer**, fortaleciendo mis conocimientos en arquitectura de software, sistemas escalables y gestión de proyectos. A futuro busco complementar esta experiencia con **Inteligencia Artificial, Machine Learning y Visión Artificial**, aplicándolos en soluciones de software cada vez más completas.
+
+Creo firmemente en el **aprendizaje y la mejora continua**. Busco aportar valor en cada proyecto, aprender de las personas con las que trabajo y asumir progresivamente nuevos retos y responsabilidades.
 
 > *Crear, aprender, mejorar y volver a construir.*
 
